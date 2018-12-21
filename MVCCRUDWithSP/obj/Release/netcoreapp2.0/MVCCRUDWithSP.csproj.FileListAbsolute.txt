@@ -1,0 +1,11 @@
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\bin\Release\netcoreapp2.0\MVCCRUDWithSP.deps.json
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\bin\Release\netcoreapp2.0\MVCCRUDWithSP.runtimeconfig.json
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\bin\Release\netcoreapp2.0\MVCCRUDWithSP.runtimeconfig.dev.json
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\bin\Release\netcoreapp2.0\MVCCRUDWithSP.dll
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\bin\Release\netcoreapp2.0\MVCCRUDWithSP.pdb
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\obj\Release\netcoreapp2.0\MVCCRUDWithSP.csprojAssemblyReference.cache
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\obj\Release\netcoreapp2.0\MVCCRUDWithSP.csproj.CoreCompileInputs.cache
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\obj\Release\netcoreapp2.0\MVCCRUDWithSP.AssemblyInfoInputs.cache
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\obj\Release\netcoreapp2.0\MVCCRUDWithSP.AssemblyInfo.cs
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\obj\Release\netcoreapp2.0\MVCCRUDWithSP.dll
+C:\Users\Ankit.Verma\source\repos\MVCCRUDWithSP\MVCCRUDWithSP\obj\Release\netcoreapp2.0\MVCCRUDWithSP.pdb
