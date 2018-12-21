@@ -10,6 +10,8 @@ using MVCCRUDWithSP.Models;
 
 namespace MVCCRUDWithSP.Controllers
 {
+
+    //dbcontext controller
     public class EmployeesController : Controller
     {
         private readonly EmployeeContext _context;
